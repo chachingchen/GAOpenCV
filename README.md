@@ -1,0 +1,2 @@
+# GAOpenCV
+以OpenCV的SimpleBlobDetector 的filter參數尋找影像中瑕疵，再搭配Genetic Algorithm找到最佳參數
